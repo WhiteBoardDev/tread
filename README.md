@@ -11,7 +11,7 @@ Suspension modeling and analysis program. Built with Electron
 - [ ] Measuring Ruler
 - [ ] Toolbox
 - [ ] Suspension Template: Macpherson Strut
-- [ ] Define Custom Arm Lenghts
+- [ ] Define Custom Arm Lengths
 - [ ] Camber Calculation
 ....
 much more...
